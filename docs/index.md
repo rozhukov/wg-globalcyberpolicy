@@ -17,6 +17,9 @@ This is a list of materials (documents, services, and so on) released by the
 
 ## Contributing
 
+Read the [consolidated roadmap](https://github.com/ossf/wg-globalcyberpolicy/blob/main/ROADMAP.md)
+for direction and ways to help with guidance, learning, and other deliverables.
+
 We typically use the [Simplest Possible Process (SPP)](https://best.openssf.org/spp/Simplest-Possible-Process) to publish our results on the web.
 
 [Please join the OpenSSF Global Cyber Policy Working Group if you're interested in helping](https://github.com/ossf/wg-globalcyberpolicy)!

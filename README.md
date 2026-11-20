@@ -6,6 +6,17 @@ The Global Cyber Policy Working group is officially a [Sandbox-level](https://gi
 
 Cybersecurity is a matter of global interest and concern.  Stakeholders from across the ecosystem and the globe are impacted by the deluge of cybersecurity incidents and vulnerability exploits.  The Global Cyber Policy Working Group seeks to assemble subject matter experts from many disciplines to collaboratively discuss legislation, regulation, and cybersecurity frameworks and standards that can help stakeholders of all background meet their compliance obligations.
 
+## Roadmap and participation
+
+Read the [consolidated roadmap](ROADMAP.md) for proposed outcomes, Now/Next/Future
+horizons, potential owners, and related issues/PRs. The public Project is not yet
+launched; candidate work is not a WG-approved commitment.
+
+- [Browse existing work and discussions](https://github.com/ossf/wg-globalcyberpolicy/issues).
+- [Propose a deliverable](https://github.com/ossf/wg-globalcyberpolicy/issues/new?template=roadmap-proposal.yml).
+- [Find requests for help](https://github.com/ossf/wg-globalcyberpolicy/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22help%20wanted%22).
+- [Read published resources](https://policy.openssf.org/) and the [contribution guide](CONTRIBUTING.md).
+
 
 ## 
 **Motivation**
@@ -39,24 +50,30 @@ This group will:
 * [Free course *Understanding the EU Cyber Resilience Act (CRA)* (LFEL1001)](https://training.linuxfoundation.org/express-learning/understanding-the-eu-cyber-resilience-act-cra-lfel1001/); [slides available](https://docs.google.com/presentation/d/1j3OlNz2k5rk9KRD8ZZz8xvsM_hyxqOioK4UUkJTWee8/edit)
 * [Cyber Resilience Act (CRA) Brief Guide for Open Source Software (OSS) Developers](https://best.openssf.org/CRA-Brief-Guide-for-OSS-Developers)
 
-## Meeting Times
+## Forums and meetings
 
+The adopted structure brings standards and policy implementation updates into
+the Main WG and broadens awareness work beyond CRA:
 
-| Effort       |    Meeting Times                                         |    Meeting Notes/Agenda    |       Git Repo        | Slack Channel | Mailing List |
-| :----------: | :------------------------------------------------------: | :------------------------: | :-------------------: | :-----------: | :----------: |
-|   Full WG    | Every other Monday 3pm CEST/9am EDT                      | [Meeting Notes](https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit?tab=t.0#heading=h.9m0zi4b0wnne) | [Git Repo](https://github.com/ossf/wg-globalcyberpolicy) | [Slack](https://openssf.slack.com/archives/C084A6XPX0F) | [WG Mailing List](https://lists.openssf.org/g/openssf-wg-globalcyberpolicy) |
-| Monthly Tech Talk |  Every fourth Monday 4pm CEST/10am EDT                 | [Meeting Notes](https://docs.google.com/document/d/1PU1qL7rDY1Gc-qOY16JoWb_eCf5H4N2IXJt0CFqZoFE/edit?tab=t.0#heading=h.omyjy2x7t74i) |                       |            |           |
-| CRA Awareness  |  Every other Tuesday 5pm CEST / 11am EDT                                                 | [Meeting Notes](https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit?tab=t.0#heading=h.9m0zi4b0wnne) |            [Git Repo](https://www.google.com/url?q=https://github.com/ossf/wg-globalcyberpolicy/tree/main&sa=D&source=calendar&usd=2&usg=AOvVaw3qBjVjdXwrQGPuLqRbF8Uu)           |   [Slack](https://openssf.slack.com/archives/C084A6XPX0F)      |  [SIG mailing list](https://lists.openssf.org/g/openssf-sig-cra-readiness)  |
-| CRA Standardization  |  Every other Tuesday 3pm CEST/9am EDT                                                 | [Meeting Notes](https://docs.google.com/document/d/1XjE5VYdyIdH32T94ZQIj0Hf5btRiKG58z3jSInY77wA/edit?tab=t.0#heading=h.9m0zi4b0wnne) |                       |   TBD         |  [SIG mailing list](https://lists.openssf.org/g/openssf-sig-cra-standards)  |
+| Forum | Focus |
+| --- | --- |
+| Main WG | Global regulatory developments, standards and policy implementation updates, consultations, and coordination. |
+| GCP Awareness SIG | Guidance, courses, whitepapers, playbooks, and outreach across cybersecurity policy topics. |
+| CRA Office Hours | Open community questions and answers, and recurring guidance gaps. |
+| APAC SIG | Regional participation, input, and feedback into the WG's work. |
 
-The Full Working Group meeting is every other Monday at 3 p.m. CET / 9 a.m. EDT. [Register here](https://zoom-lfx.platform.linuxfoundation.org/meeting/97523638150?password=dca95395-796b-44f2-afd7-413329eed229&invite=true) for the meeting (open to all). [View Meeting Notes](https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit?tab=t.0#heading=h.9m0zi4b0wnne)
+Use the [public calendar](https://calendar.google.com/calendar/u/0/r?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+and WG channels below to confirm current meeting and registration details.
+Updated forum-specific schedules and contacts still need confirmation; the
+previous fixed-time listings should not be used as the new structure's schedule.
 
-Other Meetings:
-* CRA Monthly Tech Talk: Every fourth Monday at 4 p.m. CET / 10 a.m. EDT [Register](https://zoom-lfx.platform.linuxfoundation.org/meeting/97523638150?password=dca95395-796b-44f2-afd7-413329eed229&invite=true) | [Notes](https://docs.google.com/document/d/1PU1qL7rDY1Gc-qOY16JoWb_eCf5H4N2IXJt0CFqZoFE/edit?tab=t.0#heading=h.omyjy2x7t74i)
-* CRA Awareness SIG: Every other Tuesday at 5 p.m. CET / 11 a.m. EDT [Register](https://zoom-lfx.platform.linuxfoundation.org/meeting/98786181680?password=6ec50066-ae09-4262-890a-41c34719b707&invite=true)| [Notes](https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit?tab=t.0#heading=h.9m0zi4b0wnne)
-* CRA Standards SIG: Every other Tuesday (opposite Awareness SIG) 3 p.m. CET / 9 a.m. EDT [Register](https://zoom-lfx.platform.linuxfoundation.org/meeting/94820799512?password=8c6c2c90-2893-42d7-9c0a-d73d15811c30&invite=true) | [Notes](https://docs.google.com/document/d/1XjE5VYdyIdH32T94ZQIj0Hf5btRiKG58z3jSInY77wA/edit?tab=t.0#heading=h.9m0zi4b0wnne)
+Existing meeting records remain available:
 
-**Get Involved**
+- [Main WG and Awareness meeting notes](https://docs.google.com/document/d/1iAplSQheMgemdMnEw74uPj3oi_6rLLbFFXhg4svqIDo/edit).
+- [Tech Talk meeting notes](https://docs.google.com/document/d/1PU1qL7rDY1Gc-qOY16JoWb_eCf5H4N2IXJt0CFqZoFE/edit).
+- [Historical Standards SIG meeting notes](https://docs.google.com/document/d/1XjE5VYdyIdH32T94ZQIj0Hf5btRiKG58z3jSInY77wA/edit).
+
+## Get Involved
 
 *   Official communications occur on our:
 *   [Slack channel](https://openssf.slack.com/archives/C084A6XPX0F)
@@ -89,7 +106,10 @@ The [CHARTER.md](https://github.com/ossf/wg-globalcyberpolicy/blob/main/CHARTER.
 * Working Group Co-Lead: [Roman Zhukov | Red Hat](https://github.com/rozhukov)
 
 * Awareness SIG Lead: [Megan Knight | Arm](https://github.com/businesscasualkesha)
-* Standards SIG Lead: [Madalin Neag](https://github.com/madalinnneag)
+
+The previous Standards SIG listed [Madalin Neag](https://github.com/madalinnneag)
+as its lead. Standards updates now belong in the Main WG. This roadmap rollout
+does not appoint new forum leads or assign individual deliverable owners.
 
 #
 **Intellectual Property**

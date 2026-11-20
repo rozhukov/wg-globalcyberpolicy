@@ -1,0 +1,49 @@
+name: Roadmap proposal
+description: Propose guidance, learning materials, a publication, or another useful outcome.
+title: "[Proposal]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Search existing issues, PRs, and publications before proposing new work.
+        Proposals are not commitments or assignments. Writing, review, examples,
+        translation, and regional expertise are welcome; no code is required.
+        Include only information cleared for public sharing.
+  - type: textarea
+    id: audience-and-outcome
+    attributes:
+      label: Summary, audience, and intended outcome
+      description: Who would use this output, what problem does it solve, and why does it matter?
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope and non-goals
+      description: Describe the bounded deliverable and what it will not cover. Link matching existing work rather than duplicating it.
+    validations:
+      required: true
+  - type: textarea
+    id: completion
+    attributes:
+      label: Completion criteria and publication
+      description: What must be reviewed or delivered, where would it be published, and what evidence would show it is usable?
+    validations:
+      required: true
+  - type: textarea
+    id: dependencies
+    attributes:
+      label: Related work, dependencies, and references
+      description: Link relevant issues, PRs, publications, or external efforts. Distinguish legal requirements from recommendations and cite authoritative sources for any statutory deadline.
+  - type: textarea
+    id: participation
+    attributes:
+      label: Coordination and help needed
+      description: Suggest a lead forum and needed contributors or reviewers. Indicate what you can offer; leave others unassigned until they agree.
+  - type: textarea
+    id: next-action
+    attributes:
+      label: Next action and open questions
+      description: What is the next concrete step, and what needs a WG decision? Any suggested horizon or target date is advisory, not a commitment.
+    validations:
+      required: true
